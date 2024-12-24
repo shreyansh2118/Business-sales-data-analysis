@@ -1,4 +1,5 @@
 # Business-sales-data-analysis
+![Capture](https://github.com/user-attachments/assets/cb46ae22-0620-4ec6-999d-d99e553f6418)
 
 
 📊 Business Data Analysis Report
